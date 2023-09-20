@@ -1,0 +1,13 @@
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\bin\Debug\netcoreapp3.1\Orai230920.exe
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\bin\Debug\netcoreapp3.1\Orai230920.deps.json
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\bin\Debug\netcoreapp3.1\Orai230920.runtimeconfig.json
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\bin\Debug\netcoreapp3.1\Orai230920.runtimeconfig.dev.json
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\bin\Debug\netcoreapp3.1\Orai230920.dll
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\bin\Debug\netcoreapp3.1\Orai230920.pdb
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.csprojAssemblyReference.cache
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.csproj.CoreCompileInputs.cache
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.AssemblyInfoInputs.cache
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.AssemblyInfo.cs
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.dll
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.pdb
+C:\Users\Ny19MarcalekM\source\repos\Orai230920\Orai230920\obj\Debug\netcoreapp3.1\Orai230920.genruntimeconfig.cache
